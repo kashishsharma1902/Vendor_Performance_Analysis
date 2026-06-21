@@ -80,7 +80,7 @@ This project provides an interactive dashboard to monitor vendor performance and
 
 ### Overview Dashboard
 
-![Overview Dashboard](images/ overviewdashboard.png)
+![Overview Dashboard](images/overviewdashboard.png)
 
 ---
 
